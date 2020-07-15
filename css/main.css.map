@@ -4,10 +4,10 @@
     "sources": [
         "main.scss",
         "_normalize.scss",
-        "_header.scss",
-        "_hero.scss",
-        "_footer.scss",
-        "_variables.scss"
+        "utils/_variables.scss",
+        "components/_header.scss",
+        "components/_hero.scss",
+        "components/_footer.scss"
     ],
     "names": [],
     "file": "main.css"
