@@ -1,6 +1,11 @@
 @import "./utils/variables";
 @import "./utils/placeholder";
+@import "./utils/mixin";
 @import "./base/normalize";
+
 @import "./components/header";
 @import "./components/hero";
 @import "./components/footer";
+@import "./components/logo";
+@import "./components/navigation";
+@import "./components/contacts";
